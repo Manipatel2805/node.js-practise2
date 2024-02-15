@@ -1,0 +1,22 @@
+[
+  {
+    "username": "gunni",
+    "password": "$2b$13$KadxpXXpqCmkWLf7/TIx8eG6TYYGXvUmo11V.fUGBPv/LorpCzXQe",
+    "token": "eyJhbGciOiJIUzI1NiJ9.Z3Vubmk.lB-nZtdeCu2aEYw6ZzzNZpX7MDAdmRfvdmgEtiCKPGE"
+  },
+  {
+    "username": "pasi",
+    "password": "$2b$13$9wsHnH2jyHoUOEOGxZvhM.nzXK5ei5tXshJcNtRPvZsCJ5wyujUlu",
+    "token": "eyJhbGciOiJIUzI1NiJ9.cGFzaQ.4bbAnKyF2M1QpUjFqPIr8KpEIGZE4s0QeFFuVvXWu9s"
+  },
+  {
+    "username": "viv",
+    "password": "$2b$13$6u0VCDO.VSgAdCVI3y.7q.rx5GTdaFGZmJJstEcmesNyKyMc3smRO",
+    "token": "eyJhbGciOiJIUzI1NiJ9.dml2.RgIBQAJ1gzNnkIKX9mbJpqx_ROJqZ202QCcFYhxxIMY"
+  },
+  {
+    "username": "chittti",
+    "password": "$2b$13$gOa.MLxdh04mlU/BWnuPH.PZSMRS0gWiPmP6B/HT9KJVYx45jCK4K",
+    "token": "eyJhbGciOiJIUzI1NiJ9.Y2hpdHR0aQ.K7Ki9cSudDaQW4NTASJJuuqcmdzc3WCpfjObVj43kxM"
+  }
+]
